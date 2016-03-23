@@ -19,6 +19,7 @@
 
     <!-- Navigation Drawer -->
     <ListView
+        android:id="@+id/navigation_drawer_list"
         android:layout_width="250dp"
         android:layout_height="match_parent"
         android:background="@android:color/white"
